@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">selfcheckout</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">Loy66DeilSJgbK6kct6_dhLwFPy0sKh_qsadM</string>
+</resources>
